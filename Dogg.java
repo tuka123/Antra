@@ -4,7 +4,7 @@
 //twice then true twice.
 
 
-package All_Code;
+package Day_02;
 
 public class Dogg {
 
